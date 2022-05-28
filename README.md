@@ -1,0 +1,1 @@
+# Inverted-Pyramid-Star-Pattern
